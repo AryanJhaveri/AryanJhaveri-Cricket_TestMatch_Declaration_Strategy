@@ -1,0 +1,617 @@
+Team,Runs,Wkts,Overs,Lead,Balls,Ave,RPO,Result,opposition,Ground,Start Date,balls_left,home_advantage
+  England,234,8,116.4x5,299,584,29.25,2.4,draw,Australia,Lord's,17 Jul 1893,0,1
+  Australia,230,8,94.0x5,289,470,28.75,2.93,draw,England,Nottingham,1 Jun 1899,495,-1
+  Australia,346,7,181.0x5,170,905,49.42,2.29,draw,England,Manchester,17 Jul 1899,135,-1
+  Australia,372,7,78,214,468,53.14,4.76,draw,South Africa,Johannesburg,11-Oct-02,192,-1
+  England,426,5,153,401,918,85.2,2.78, won,Australia,Nottingham,29-May-05,436,1
+  England,295,5,104,401,624,59,2.83,draw,Australia,Leeds,03-Jul-05,546,1
+  England,261,6,80.3,328,483,43.5,3.24,draw,Australia,The Oval,14-Aug-05,222,1
+  South Africa,349,5,101,439,606,69.8,3.45, won,England,Johannesburg,10-Mar-06,472,1
+  Australia,279,9,84.3,307,507,31,3.3,draw,England,Manchester,26-Jul-09,330,-1
+  Australia,339,5,100,312,600,67.8,3.39,draw,England,The Oval,09-Aug-09,198,-1
+  South Africa,305,9,102,312,612,33.88,2.99,draw,England,Durban,14-Feb-14,480,1
+  Australia,273,7,73,421,438,39,3.73, won,England,Leeds,02-Jul-21,314,-1
+  Australia,324,7,87,391,522,46.28,3.72,draw,South Africa,Durban,05-Nov-21,576,-1
+  South Africa,472,8,195,265,1170,59,2.42,draw,Australia,Johannesburg,12-Nov-21,10,1
+  England,376,6,134,325,804,62.66,2.8,draw,South Africa,Johannesburg,09-Feb-23,479,-1
+  South Africa,464,8,157,280,942,58,2.95,draw,England,Durban,21-Jan-28,254,1
+  England,342,8,135.1,741,811,42.75,2.53, won,Australia,Brisbane,30-Nov-28,158,-1
+  England,308,4,100,303,600,77,3.08,draw,South Africa,Birmingham,15-Jun-29,171,1
+  England,312,8,82.2,292,494,39,3.78,draw,South Africa,Lord's,29-Jun-29,306,1
+  New Zealand,164,4,53,284,318,41,3.09,draw,England,Wellington,24-Jan-30,234,1
+  England,425,8,125,379,750,53.12,3.4, won,West Indies,Port of Spain,01-Feb-30,674,-1
+  England,272,9,79.1,835,475,30.22,3.43,draw,West Indies,Kingston,03-Apr-30,987,-1
+  England,169,9,51.1,316,307,18.77,3.3,draw,South Africa,Johannesburg,13-Feb-31,576,-1
+  South Africa,219,7,82,241,492,31.28,2.67,draw,England,Durban,21-Feb-31,85,1
+  West Indies,124,5,51,250,306,24.8,2.43, won,Australia,Sydney,27-Feb-31,453,-1
+  New Zealand,469,9,157.4,239,946,52.11,2.97,draw,England,Lord's,27-Jun-31,330,-1
+  England,275,8,110,345,660,34.37,2.5, won,India,Lord's,25-Jun-32,248,1
+  England,261,7,75.5,451,455,37.28,3.44, won,India,Chennai,10-Feb-34,416,-1
+  Australia,273,8,90,379,540,34.12,3.03, won,England,Nottingham,08-Jun-34,646,-1
+  England,123,0,52,259,312,34.12,2.36,draw,Australia,Manchester,06-Jul-34,162,1
+  West Indies,51,6,19,72,114,8.5,2.68, lost,England,Bridgetown,08-Jan-35,99,1
+  West Indies,280,6,103,324,618,46.66,2.71, won,England,Port of Spain,24-Jan-35,395,1
+  England,160,6,80,202,480,26.66,2,draw,West Indies,Georgetown,14-Feb-35,144,-1
+  South Africa,278,7,121.4,308,730,39.71,2.28, won,England,Lord's,29-Jun-35,402,-1
+  England,294,7,79.3,339,477,42,3.69,draw,South Africa,Leeds,13-Jul-35,572,1
+  England,231,6,67,270,402,38.5,3.44,draw,South Africa,Manchester,27-Jul-35,498,1
+  England,226,4,42,355,252,56.5,5.38,draw,New Zealand,Lord's,26-Jun-37,461,1
+  Australia,427,6,184,180,1104,71.16,2.32,draw,England,Nottingham,10-Jun-38,0,-1
+  England,242,8,72,314,432,30.25,3.36,draw,Australia,Lord's,24-Jun-38,290,1
+  England,291,4,61.5x8,323,493,72.75,3.54,draw,South Africa,Johannesburg,24-Dec-38,408,-1
+  England,128,6,38.0x8,159,304,21.33,2.52,draw,West Indies,Manchester,22-Jul-39,126,1
+  England,366,3,76.0x8,220,608,122,3.61,draw,West Indies,The Oval,19-Aug-39,0,1
+  England,153,5,61,277,366,30.6,2.5,draw,India,Manchester,20-Jul-46,366,1
+  England,340,8,125.1x8,313,1001,42.5,2.03,draw,Australia,Adelaide,31-Jan-47,352,-1
+  England,325,6,77,450,462,54.16,4.22,draw,South Africa,The Oval,16-Aug-47,846,1
+  Australia,255,4,65.0x8,358,520,63.75,2.94, won,India,Melbourne,01-Jan-48,207,1
+  West Indies,351,9,106,394,636,39,3.31,draw,England,Bridgetown,21-Jan-48,274,1
+  Australia,460,7,130.2,595,782,65.71,3.52, won,England,Lord's,24-Jun-48,469,-1
+  England,174,3,69,316,414,58,2.52,draw,Australia,Manchester,08-Jul-48,366,1
+  England,365,8,107,403,642,45.62,3.41, lost,Australia,Leeds,22-Jul-48,685,1
+  West Indies,336,9,105.3,430,633,37.33,3.18,draw,India,Kolkata,31-Dec-48,816,-1
+  England,276,3,96.0x8,228,768,92,2.15,draw,South Africa,Cape Town,01-Jan-49,248,-1
+  England,253,7,78.2x8,375,626,36.14,2.42,draw,South Africa,Johannesburg,12-Feb-49,520,-1
+  South Africa,187,3,58.0x8,171,464,62.33,2.41, lost,England,Port Elizabeth,05-Mar-49,191,1
+  England,267,4,68,298,408,66.75,3.92,draw,New Zealand,Leeds,11-Jun-49,294,1
+  New Zealand,308,9,97,171,582,34.22,3.17,draw,England,The Oval,13-Aug-49,0,-1
+  West Indies,425,6,178,600,1068,70.83,2.38, won,England,Lord's,24-Jun-50,1149,-1
+  Australia,32,7,13.5x8,192,109,4.57,1.76, won,England,Brisbane,01-Dec-50,304,1
+  Australia,403,8,101.6x8,502,814,50.37,2.97, won,England,Adelaide,02-Feb-51,630,1
+  England,252,5,120,250,720,50.4,2.1,draw,India,Kolkata,30-Dec-51,174,-1
+  Pakistan,236,7,120,96,720,33.71,1.96,draw,India,Kolkata,12-Dec-52,36,-1
+  Australia,233,3,47.0x8,376,376,77.66,3.71,draw,South Africa,Adelaide,24-Jan-53,576,1
+  India,362,7,200.1,326,1201,51.71,1.8,draw,West Indies,Port of Spain,19-Feb-53,324,-1
+  South Africa,200,5,78,332,468,40,2.56,draw,New Zealand,Auckland,13-Mar-53,117,-1
+  West Indies,209,6,67,456,402,34.83,3.11, won,England,Kingston,15-Jan-54,777,1
+  West Indies,292,2,96,494,576,146,3.04, won,England,Bridgetown,06-Feb-54,838,1
+  West Indies,212,4,55,356,330,53,3.85,draw,England,Port of Spain,17-Mar-54,180,1
+  Pakistan,136,5,84.3,213,507,27.2,1.6,draw,India,Lahore,29-Jan-55,192,1
+  Pakistan,241,5,86,258,516,48.2,2.8,draw,India,Karachi,26-Feb-55,192,1
+  India,438,7,209,234,1254,62.57,2.09,draw,New Zealand,Kolkata,28-Dec-55,204,1
+  New Zealand,157,9,80,267,480,17.44,1.96, won,West Indies,Auckland,09-Mar-56,271,1
+  England,188,3,61,257,366,62.66,3.08,draw,Australia,Nottingham,07-Jun-56,516,1
+  England,182,3,61,227,366,60.66,2.98,draw,Australia,The Oval,23-Aug-56,229,1
+  Australia,189,9,67.4,230,406,21,2.79, won,India,Kolkata,02-Nov-56,416,-1
+  England,220,6,63.5x8,384,509,36.66,2.59, won,South Africa,Cape Town,01-Jan-57,401,-1
+  England,583,4,258,295,1548,145.75,2.25,draw,West Indies,Birmingham,30-May-57,360,1
+  Pakistan,657,8,319,184,1914,82.12,2.05,draw,West Indies,Bridgetown,17-Jan-58,66,-1
+  England,215,6,96.2,342,578,35.83,2.23, won,New Zealand,Birmingham,05-Jun-58,465,1
+  West Indies,323,4,112,398,672,80.75,2.88,draw,India,Mumbai (BS),28-Nov-58,792,-1
+  West Indies,443,7,127,443,762,63.28,3.48, won,India,Kanpur,12-Dec-58,607,-1
+  England,287,7,109.0x8,149,872,41,1.97,draw,Australia,Sydney,09-Jan-59,200,-1
+  West Indies,168,5,76,446,456,33.6,2.21, won,India,Chennai,21-Jan-59,420,-1
+  England,265,8,90,547,540,33.12,2.94, won,India,Manchester,23-Jul-59,871,1
+  Pakistan,194,8,109.4,224,658,24.25,1.76,draw,Australia,Karachi,04-Dec-59,198,1
+  India,226,5,101,128,606,45.2,2.23,draw,Australia,Mumbai (BS),01-Jan-60,48,1
+  England,230,9,90.4,500,544,25.55,2.53, won,West Indies,Port of Spain,28-Jan-60,809,-1
+  England,350,7,124,405,744,50,2.82,draw,West Indies,Port of Spain,25-Mar-60,312,-1
+  England,153,7,75,184,450,21.85,2.04,draw,South Africa,Manchester,21-Jul-60,156,1
+  England,479,9,157,215,942,53.22,3.05,draw,South Africa,The Oval,18-Aug-60,176,1
+  Pakistan,146,3,49,267,294,48.66,2.97,draw,India,Kolkata,30-Dec-60,342,-1
+  West Indies,432,6,92.0x8,459,736,72,3.52,draw,Australia,Adelaide,27-Jan-61,960,-1
+  England,184,5,58,294,348,36.8,3.17,draw,India,Mumbai (BS),11-Nov-61,438,-1
+  South Africa,178,6,43,277,258,29.66,4.13,draw,New Zealand,Johannesburg,26-Dec-61,408,1
+  New Zealand,212,9,88.1,407,529,23.55,2.4, won,South Africa,Cape Town,01-Jan-62,854,-1
+  Australia,362,4,87.0x8,377,696,90.5,3.12,draw,England,Brisbane,30-Nov-62,664,1
+  England,268,8,82.0x8,240,656,33.5,2.45,draw,Australia,Sydney,15-Feb-63,576,-1
+  England,278,9,105.2,308,632,30.88,2.63, won,West Indies,Birmingham,04-Jul-63,207,1
+  Australia,144,1,35.0x8,233,280,144,3.08,draw,South Africa,Brisbane,06-Dec-63,51,1
+  Australia,450,9,100.5x8,408,805,50,3.35,draw,South Africa,Sydney,10-Jan-64,326,1
+  India,152,9,58.5,292,353,16.88,2.58,draw,England,Chennai,10-Jan-64,241,1
+  India,249,8,115,316,690,31.12,2.16,draw,England,Mumbai (BS),21-Jan-64,804,1
+  India,300,7,120,274,720,42.85,2.5,draw,England,Kolkata,29-Jan-64,330,1
+  South Africa,218,2,66,267,396,109,3.3,draw,New Zealand,Wellington,21-Feb-64,456,-1
+  South Africa,200,5,64.4,308,388,40,3.09,draw,New Zealand,Auckland,13-Mar-64,606,-1
+  England,193,9,66.5,241,401,21.44,2.88,draw,Australia,Nottingham,04-Jun-64,56,1
+  Pakistan,279,8,122,341,732,34.87,2.28,draw,Australia,Karachi,24-Oct-64,492,1
+  New Zealand,179,7,80.4,258,484,25.57,2.21,draw,Pakistan,Wellington,22-Jan-65,312,1
+  South Africa,307,3,88,313,528,102.33,3.48,draw,England,Johannesburg,22-Jan-65,522,1
+  Pakistan,309,8,93.3,313,561,38.62,3.3,draw,New Zealand,Christchurch,12-Feb-65,498,-1
+  South Africa,178,4,60,245,360,44.5,2.96,draw,England,Port Elizabeth,12-Feb-65,116,1
+  India,199,2,58.1,281,349,99.5,3.42,draw,New Zealand,Chennai,27-Feb-65,126,1
+  New Zealand,191,9,91.1,273,547,21.22,2.09,draw,India,Kolkata,05-Mar-65,102,-1
+  India,463,5,154.4,254,928,92.6,2.99,draw,New Zealand,Mumbai (BS),12-Mar-65,258,1
+  Pakistan,194,8,77,97,462,24.25,2.51,draw,New Zealand,Lahore,02-Apr-65,0,1
+  Australia,175,4,53.2,252,320,43.75,3.28,draw,West Indies,Bridgetown,05-May-65,510,-1
+  England,201,5,67,196,402,40.2,3,draw,New Zealand,Christchurch,25-Feb-66,288,-1
+  West Indies,369,5,133,283,798,73.8,2.77,draw,England,Lord's,16-Jun-66,330,-1
+  West Indies,482,5,178,392,1068,96.4,2.7, won,England,Nottingham,30-Jun-66,651,-1
+  England,241,9,90.3,256,543,26.77,2.66,draw,Pakistan,Lord's,27-Jul-67,372,1
+  West Indies,391,9,135,158,810,43.44,2.89,draw,England,Kingston,08-Feb-68,233,1
+  India,261,5,96,373,576,52.2,2.71, won,New Zealand,Auckland,07-Mar-68,370,-1
+  West Indies,92,2,30,214,180,46,3.06, lost,England,Port of Spain,14-Mar-68,316,1
+  England,142,3,42,329,252,47.33,3.38,draw,Australia,Birmingham,11-Jul-68,170,1
+  Australia,394,8,92.0x8,734,736,49.25,3.21, won,West Indies,Sydney,14-Feb-69,514,1
+  England,225,9,84.5,322,509,25,2.65,draw,Pakistan,Lahore,21-Feb-69,474,-1
+  New Zealand,297,8,112.2x8,344,898,37.12,1.98, lost,West Indies,Auckland,27-Feb-69,552,1
+  Pakistan,195,6,101,167,606,32.5,1.93,draw,England,Dhaka,28-Feb-69,120,1
+  West Indies,295,9,100.5,331,605,32.77,2.92,draw,England,Lord's,26-Jun-69,636,-1
+  New Zealand,175,8,82,267,492,21.87,2.13,draw,India,Hyderabad (Deccan),15-Oct-69,280,-1
+  Pakistan,283,8,134.4,229,808,35.37,2.1,draw,New Zealand,Karachi,24-Oct-69,378,1
+  India,312,7,152,284,912,44.57,2.05,draw,Australia,Kanpur,15-Nov-69,264,1
+  South Africa,470,8,121.2,569,728,58.75,3.87, won,Australia,Port Elizabeth,05-Mar-70,543,1
+  England,287,6,101.0x8,244,808,47.83,2.13,draw,Australia,Perth,11-Dec-70,256,-1
+  England,319,5,94.0x8,415,752,63.8,2.54, won,Australia,Sydney,09-Jan-71,453,-1
+  Australia,169,4,46.0x8,270,368,42.25,2.75,draw,England,Melbourne,21-Jan-71,464,1
+  England,233,4,51.0x8,468,408,58.25,3.42,draw,Australia,Adelaide,29-Jan-71,920,-1
+  West Indies,307,3,100,294,600,102.33,3.07,draw,India,Georgetown,19-Mar-71,180,1
+  West Indies,180,6,43,334,258,30,4.18,draw,India,Bridgetown,01-Apr-71,618,1
+  England,245,3,66,419,396,81.66,3.71,draw,India,Manchester,05-Aug-71,162,1
+  West Indies,218,3,53.4,340,322,72.66,4.06,draw,New Zealand,Kingston,16-Feb-72,648,1
+  New Zealand,288,3,140,295,840,96,2.05,draw,West Indies,Port of Spain,09-Mar-72,276,-1
+  Australia,324,4,92,450,552,81,3.52,draw,England,Nottingham,13-Jul-72,888,-1
+  Pakistan,290,6,71.0x8,322,568,48.33,3.06,draw,New Zealand,Wellington,02-Feb-73,208,-1
+  India,244,5,96,212,576,48.8,2.54,draw,England,Mumbai (BS),06-Feb-73,174,1
+  Australia,260,2,82,260,492,130,3.17,draw,West Indies,Kingston,16-Feb-73,192,-1
+  England,306,7,119,239,714,43.71,2.57,draw,Pakistan,Lahore,02-Mar-73,228,-1
+  Australia,300,2,119.1,233,715,150,2.51,draw,West Indies,Bridgetown,09-Mar-73,114,-1
+  Australia,218,7,80,318,480,31.14,2.72,draw,West Indies,Port of Spain,21-Apr-73,414,-1
+  England,325,8,97,478,582,40.62,3.35, won,New Zealand,Nottingham,07-Jun-73,1129,1
+  New Zealand,305,9,75.2x8,455,602,33.88,3.03,draw,Australia,Sydney,05-Jan-74,67,-1
+  England,213,3,70,295,420,71,3.04, won,India,Manchester,06-Jun-74,511,1
+  West Indies,356,6,83,385,498,59.33,4.28, won,India,Bengaluru,22-Nov-74,257,-1
+  Australia,288,5,85.0x8,332,680,57.6,2.54, won,England,Brisbane,29-Nov-74,453,1
+  Australia,289,4,64.3x8,399,515,72.25,3.36, won,England,Sydney,04-Jan-75,637,1
+  West Indies,205,3,40,403,240,68.33,5.12, won,India,Mumbai,23-Jan-75,463,-1
+  Australia,272,5,66.0x8,404,528,54.4,3.09, won,England,Adelaide,25-Jan-75,600,1
+  Pakistan,373,7,94.6x8,358,758,53.28,2.95,draw,West Indies,Lahore,15-Feb-75,552,1
+  England,436,7,147.4,483,886,62.28,2.95,draw,Australia,Lord's,31-Jul-75,654,1
+  Australia,345,7,79.5x8,489,637,49.28,3.24, won,West Indies,Adelaide,23-Jan-76,508,1
+  Australia,300,3,78.0x8,491,624,100,2.88, won,West Indies,Melbourne,31-Jan-76,437,1
+  West Indies,271,6,104.3,402,627,45.16,2.59, lost,India,Port of Spain,07-Apr-76,882,1
+  West Indies,176,5,36,338,216,35.2,4.88,draw,England,Nottingham,03-Jun-76,468,-1
+  West Indies,411,5,114,551,684,82.2,3.6, won,England,Manchester,08-Jul-76,383,-1
+  West Indies,182,0,32,434,192,82.2,5.68, won,England,The Oval,12-Aug-76,472,-1
+  Pakistan,290,5,47.4x8,387,380,58,4.57,draw,New Zealand,Karachi,30-Oct-76,638,1
+  India,202,4,58,303,348,50.5,3.48, won,New Zealand,Mumbai,10-Nov-76,482,1
+  India,208,2,52,382,312,104,4,draw,New Zealand,Kanpur,18-Nov-76,702,1
+  India,201,5,61.5,359,371,40.2,3.25, won,New Zealand,Chennai,26-Nov-76,402,1
+  Australia,315,8,61.5x8,499,493,39.37,3.83, won,Pakistan,Melbourne,01-Jan-77,353,1
+  England,185,9,71.5,283,431,20.55,2.57, won,India,Chennai,14-Jan-77,233,-1
+  India,259,9,91,317,546,28.77,2.84, won,England,Bengaluru,28-Jan-77,345,1
+  Australia,154,4,43.0x8,349,344,38.5,2.68,draw,New Zealand,Christchurch,18-Feb-77,672,-1
+  Australia,419,9,96.6x8,462,774,46.55,3.24, won,England,Melbourne,12-Mar-77,900,1
+  Pakistan,301,9,85.5,488,515,33.44,3.5, won,West Indies,Port of Spain,01-Apr-77,629,-1
+  India,330,9,73.5x8,338,589,36.66,3.36, lost,Australia,Perth,16-Dec-77,698,-1
+  Pakistan,259,4,88.0x8,343,704,64.75,2.2,draw,England,Hyderabad (Sind),02-Jan-78,652,1
+  England,96,4,22.0x8,279,176,24,3.27, won,New Zealand,Christchurch,24-Feb-78,216,-1
+  Australia,305,3,86,368,516,101.66,3.54,draw,West Indies,Kingston,28-Apr-78,580,-1
+  Pakistan,264,4,71.5,305,431,66,3.67,draw,India,Faisalabad,16-Oct-78,114,1
+  India,361,1,93,334,558,361,3.88,draw,West Indies,Kolkata,29-Dec-78,631,1
+  Pakistan,323,6,93.0x8,304,744,53.83,2.6, won,New Zealand,Christchurch,02-Feb-79,448,-1
+  Pakistan,234,3,86.0x8,192,688,78,2.04,draw,New Zealand,Napier,16-Feb-79,0,-1
+  New Zealand,281,8,91.2x8,176,730,35.12,2.3,draw,Pakistan,Auckland,23-Feb-79,6,1
+  Pakistan,353,9,81.5x8,381,653,39.22,3.24, won,Australia,Melbourne,10-Mar-79,740,-1
+  England,334,8,116.5,437,701,41.75,2.85,draw,India,The Oval,30-Aug-79,905,1
+  Australia,151,6,57.3,246,345,25.16,2.62,draw,India,Kolkata,26-Oct-79,380,-1
+  Australia,448,6,166,275,996,74.66,2.69,draw,West Indies,Brisbane,01-Dec-79,84,1
+  West Indies,447,5,119,215,714,89.4,3.75,draw,New Zealand,Christchurch,22-Feb-80,0,-1
+  West Indies,264,9,94.1,179,565,29.33,2.8,draw,New Zealand,Auckland,29-Feb-80,216,-1
+  England,209,9,94,314,564,23.22,2.22,draw,West Indies,The Oval,24-Jul-80,0,1
+  England,227,6,75,125,450,37.83,3.02,draw,West Indies,Leeds,07-Aug-80,0,1
+  Australia,189,4,53.2,369,320,47.25,3.54,draw,England,Lord's,28-Aug-80,492,-1
+  Australia,221,7,90,330,540,31.57,2.45,draw,India,Adelaide,23-Jan-81,450,1
+  West Indies,379,7,109,522,654,54.14,3.47, won,England,Bridgetown,13-Mar-81,372,1
+  England,302,6,128,145,768,50.33,2.35,draw,West Indies,Kingston,10-Apr-81,0,-1
+  England,265,8,98.4,231,592,33.12,2.68,draw,Australia,Lord's,02-Jul-81,293,1
+  Australia,344,9,104.2,382,626,38.22,3.29,draw,England,The Oval,27-Aug-81,570,-1
+  Australia,424,8,138,542,828,53,3.07, won,Pakistan,Perth,13-Nov-81,443,1
+  England,174,3,69,146,414,58,2.52,draw,India,Bengaluru,09-Dec-81,0,-1
+  England,68,0,19,57,114,58,3.57,draw,India,Delhi,23-Dec-81,0,-1
+  England,265,5,90,305,540,53,2.94,draw,India,Kolkata,01-Jan-82,498,-1
+  India,160,3,50,313,300,53.33,3.2,draw,England,Chennai,13-Jan-82,0,1
+  Pakistan,301,4,90,353,540,75.25,3.34, won,Sri Lanka,Karachi,05-Mar-82,283,1
+  Sri Lanka,154,8,63,338,378,19.25,2.44,draw,Pakistan,Faisalabad,14-Mar-82,354,-1
+  England,191,3,70.3,375,423,63.66,2.7,draw,India,The Oval,08-Jul-82,216,1
+  India,247,5,88,154,528,49.4,2.8,draw,West Indies,St John's,28-Apr-83,0,-1
+  England,446,6,189.2,459,1136,74.33,2.35, won,New Zealand,The Oval,14-Jul-83,661,1
+  India,262,8,107,185,642,32.75,2.44,draw,Pakistan,Nagpur,05-Oct-83,48,1
+  India,173,5,46,243,276,34.6,3.76,draw,West Indies,Mumbai,24-Nov-83,283,1
+  Australia,273,9,97,322,582,30.33,2.81,draw,West Indies,Georgetown,02-Mar-84,366,-1
+  New Zealand,201,8,54.5,262,329,25.12,3.66, won,Sri Lanka,Kandy,09-Mar-84,165,-1
+  Sri Lanka,289,9,127,265,762,32.11,2.27,draw,New Zealand,Colombo (SSC),16-Mar-84,516,1
+  England,344,9,107.4,242,646,38.22,3.19,draw,Pakistan,Lahore,19-Mar-84,351,-1
+  England,300,9,98.3,341,591,33.33,3.04, lost,West Indies,Lord's,28-Jun-84,397,1
+  Sri Lanka,294,7,80,415,480,42,3.67,draw,England,Lord's,23-Aug-84,0,-1
+  West Indies,292,7,79.1,364,475,41.71,3.68, won,Australia,Adelaide,07-Dec-84,305,-1
+  West Indies,186,5,58,369,348,37.2,3.2,draw,Australia,Melbourne,22-Dec-84,522,-1
+  India,97,1,13,233,78,97,7.46,draw,England,Kanpur,31-Jan-85,216,1
+  West Indies,261,8,72,306,432,32.62,3.62,draw,New Zealand,Port of Spain,29-Mar-85,486,1
+  West Indies,268,6,95,339,570,44.66,2.82,draw,New Zealand,Georgetown,06-Apr-85,0,1
+  Sri Lanka,206,3,53,347,318,68.66,3.88, won,India,Colombo (PSS),06-Sep-85,398,1
+  India,325,5,84,376,504,65,3.86,draw,Sri Lanka,Kandy,14-Sep-85,0,-1
+  Australia,219,7,94,244,564,31.28,2.32,draw,New Zealand,Christchurch,28-Feb-86,612,-1
+  West Indies,246,2,43,410,258,123,5.72, won,England,St John's,11-Apr-86,475,1
+  England,295,6,120.4,260,724,49.16,2.44,draw,New Zealand,Lord's,24-Jul-86,90,1
+  Australia,170,5,49,347,294,34,3.46,tied,India,Chennai,18-Sep-86,521,-1
+  England,199,8,53.3,390,321,24.87,3.71,draw,Australia,Perth,28-Nov-86,582,-1
+  Australia,201,3,90,260,540,67,2.23,draw,England,Adelaide,12-Dec-86,138,1
+  India,181,3,52.1,355,313,60.33,3.46,draw,Pakistan,Kolkata,11-Feb-87,522,1
+  New Zealand,386,5,177,269,1062,77.2,2.18,draw,West Indies,Wellington,20-Feb-87,132,1
+  England,137,6,40,238,240,22.83,3.42,draw,Pakistan,Faisalabad,07-Dec-87,144,-1
+  India,217,8,76,415,456,27.12,2.85, won,West Indies,Chennai,11-Jan-88,248,1
+  New Zealand,350,7,169,328,1014,50,2.07,draw,England,Auckland,25-Feb-88,0,1
+  Pakistan,378,9,116.4,373,700,42,3.24,draw,Australia,Faisalabad,23-Sep-88,156,1
+  Australia,161,3,41,268,246,53.66,3.92,draw,Pakistan,Lahore,07-Oct-88,504,-1
+  India,141,1,28,336,168,141,5.03, won,New Zealand,Bengaluru,12-Nov-88,472,1
+  West Indies,349,9,98,403,588,38.77,3.56, won,Australia,Perth,02-Dec-88,378,-1
+  West Indies,361,9,120,399,720,40.11,3, won,Australia,Melbourne,24-Dec-88,343,-1
+  Australia,224,4,75,370,450,56,2.98,draw,West Indies,Adelaide,03-Feb-89,486,1
+  Australia,230,3,54.5,401,329,76.66,4.19, won,England,Leeds,08-Jun-89,332,-1
+  Australia,219,4,63,402,378,54.75,3.47,draw,England,The Oval,24-Aug-89,277,-1
+  Pakistan,305,5,96,452,576,61,3.17,draw,India,Karachi,15-Nov-89,576,1
+  Australia,513,5,125,521,750,102.6,4.1, won,Sri Lanka,Hobart,16-Dec-89,850,1
+  Australia,312,8,108.4,428,652,39,2.87, won,Pakistan,Melbourne,12-Jan-90,827,1
+  Pakistan,387,9,143.5,303,863,43,2.69,draw,Australia,Adelaide,19-Jan-90,498,-1
+  New Zealand,483,5,159,392,954,96.6,3.03,draw,India,Auckland,22-Feb-90,270,1
+  West Indies,267,8,68,355,408,33.37,3.92, won,England,Bridgetown,05-Apr-90,550,1
+  England,272,4,78,144,468,68,3.48,draw,New Zealand,Lord's,21-Jun-90,0,1
+  England,272,4,54.2,471,326,68,5, won,India,Lord's,26-Jul-90,372,1
+  England,320,4,81,407,486,80,3.95,draw,India,Manchester,09-Aug-90,540,1
+  England,477,4,154,211,924,119.25,3.09,draw,India,The Oval,23-Aug-90,0,1
+  Australia,314,6,104,471,624,52.33,3.01,draw,England,Adelaide,25-Jan-91,576,1
+  New Zealand,374,6,105,417,630,62.33,3.56,draw,Sri Lanka,Hamilton,22-Feb-91,750,1
+  Australia,123,3,53,190,318,41,2.32,draw,West Indies,Port of Spain,05-Apr-91,0,-1
+  West Indies,536,9,162.3,551,975,59.55,3.29, won,Australia,Bridgetown,19-Apr-91,524,1
+  England,364,3,85.1,422,511,121.33,4.27, won,Sri Lanka,Lord's,22-Aug-91,621,1
+  Australia,367,6,113.3,441,681,61.16,3.23, won,India,Perth,01-Feb-92,331,1
+  England,359,7,119.3,232,717,51.28,3,draw,New Zealand,Wellington,06-Feb-92,144,-1
+  Pakistan,239,5,77,354,462,47.8,3.1,draw,England,Manchester,02-Jul-92,0,-1
+  Australia,296,6,115,285,690,49.33,2.57,draw,Sri Lanka,Colombo (RPS),28-Aug-92,324,-1
+  New Zealand,222,5,48,328,288,44.4,4.62,draw,Zimbabwe,Bulawayo,01-Nov-92,427,-1
+  New Zealand,262,5,82.4,314,496,52.4,3.16, won,Zimbabwe,Harare,07-Nov-92,303,-1
+  South Africa,130,6,97,214,582,21.66,1.34,draw,India,Cape Town,02-Jan-93,261,1
+  Australia,432,5,130,511,780,86.4,3.32, won,England,Manchester,03-Jun-93,722,-1
+  England,422,6,155,370,930,70.33,2.72,draw,Australia,Nottingham,01-Jul-93,456,1
+  India,359,4,118,471,708,89.75,3.04, won,Sri Lanka,Colombo (SSC),27-Jul-93,727,-1
+  Sri Lanka,300,6,80,364,480,50,3.75,draw,South Africa,Moratuwa,25-Aug-93,672,1
+  Australia,323,1,87,302,522,323,3.71,draw,New Zealand,Perth,12-Nov-93,372,1
+  Pakistan,131,3,26,265,156,43.66,5.03, won,Zimbabwe,Karachi,01-Dec-93,377,1
+  Australia,124,6,40,320,240,20.66,3.1, won,South Africa,Adelaide,28-Jan-94,635,1
+  South Africa,450,9,159.5,453,959,50,2.81, won,Australia,Johannesburg,04-Mar-94,579,1
+  New Zealand,368,7,129,309,774,52.57,2.85,draw,India,Hamilton,19-Mar-94,354,1
+  England,394,7,108.5,445,653,56.28,3.62, won,West Indies,Bridgetown,08-Apr-94,494,-1
+  New Zealand,211,5,68,406,408,42.2,3.1,draw,England,Lord's,16-Jun-94,648,-1
+  South Africa,278,8,102.3,455,615,34.75,2.71, won,England,Lord's,21-Jul-94,275,-1
+  England,267,5,78.3,297,471,53.4,3.4,draw,South Africa,Leeds,04-Aug-94,360,1
+  Pakistan,318,4,91,482,546,79.5,3.49, won,Sri Lanka,Colombo (PSS),09-Aug-94,282,-1
+  Australia,248,8,88,507,528,31,2.81, won,England,Brisbane,25-Nov-94,824,1
+  India,208,7,63.4,326,382,29.71,3.26,draw,West Indies,Nagpur,01-Dec-94,372,1
+  West Indies,301,3,56.3,357,339,100.33,5.32, won,India,Mohali,10-Dec-94,212,-1
+  Australia,320,7,124,387,744,45.71,2.58, won,England,Melbourne,24-Dec-94,257,1
+  England,255,2,72,448,432,127.5,3.54,draw,Australia,Sydney,01-Jan-95,730,-1
+  South Africa,259,7,80,489,480,37,3.23, won,Pakistan,Johannesburg,19-Jan-95,417,1
+  Australia,345,8,90.3,452,543,43.12,3.81, won,England,Perth,03-Feb-95,246,1
+  South Africa,308,6,105,274,630,51.33,2.93, won,New Zealand,Auckland,04-Mar-95,335,-1
+  Australia,300,7,108,256,648,42.85,2.77,draw,West Indies,St John's,08-Apr-95,180,-1
+  England,269,9,104,292,624,29.88,2.58,draw,West Indies,Nottingham,10-Aug-95,66,1
+  Sri Lanka,338,9,120.3,356,723,37.55,2.8, won,Pakistan,Sialkot,22-Sep-95,456,-1
+  South Africa,346,9,104.3,478,627,38.44,3.31,draw,England,Johannesburg,30-Nov-95,990,1
+  South Africa,162,9,65.3,327,393,18,2.47,draw,England,Port Elizabeth,26-Dec-95,552,1
+  New Zealand,222,5,75,256,450,44.4,2.96,draw,Zimbabwe,Hamilton,13-Jan-96,366,1
+  New Zealand,441,5,133,366,798,88.2,3.31,draw,Zimbabwe,Auckland,20-Jan-96,600,1
+  Australia,215,6,73,400,438,35.83,2.94, won,Sri Lanka,Adelaide,25-Jan-96,578,1
+  England,278,9,121,193,726,30.88,2.29,draw,India,Lord's,20-Jun-96,0,1
+  Pakistan,352,5,113.2,407,680,70.4,3.1, won,England,Lord's,25-Jul-96,583,-1
+  Pakistan,242,7,81,189,486,34.57,2.98,draw,England,Leeds,08-Aug-96,0,-1
+  Australia,217,6,65,419,390,36.16,3.33, won,West Indies,Brisbane,22-Nov-96,641,1
+  South Africa,367,3,93.2,466,560,122.33,3.93, won,India,Kolkata,27-Nov-96,321,-1
+  Australia,312,4,106,339,636,78,2.94, won,West Indies,Sydney,29-Nov-96,418,1
+  India,400,7,126,460,756,57.14,3.17, won,South Africa,Kanpur,08-Dec-96,577,1
+  South Africa,256,6,72,426,432,42.66,3.55, won,India,Cape Town,02-Jan-97,398,1
+  India,266,8,83,355,498,33.25,3.2,draw,South Africa,Johannesburg,16-Jan-97,408,-1
+  New Zealand,248,9,114,117,684,27.55,2.17,draw,England,Auckland,24-Jan-97,0,1
+  West Indies,241,4,66,322,396,60.25,3.65,draw,India,Kingston,06-Mar-97,288,1
+  Sri Lanka,423,8,155.1,375,931,52.87,2.72,draw,Pakistan,Colombo (RPS),19-Apr-97,0,1
+  Sri Lanka,386,4,95.5,425,575,96.5,4.02,draw,Pakistan,Colombo (SSC),26-Apr-97,570,1
+  England,266,4,79,130,474,66.5,3.36,draw,Australia,Lord's,19-Jun-97,0,1
+  Australia,395,8,122,468,732,49.37,3.23, won,England,Manchester,03-Jul-97,442,-1
+  Sri Lanka,415,7,98.4,372,592,59.28,4.2,draw,India,Colombo (SSC),09-Aug-97,600,1
+  Zimbabwe,311,9,91.5,402,551,34.55,3.38,draw,New Zealand,Harare,18-Sep-97,768,1
+  Zimbabwe,227,8,64,285,384,28.37,3.54,draw,New Zealand,Bulawayo,25-Sep-97,408,1
+  Australia,294,6,100.5,318,605,49,2.91, won,New Zealand,Brisbane,07-Nov-97,372,1
+  Australia,138,2,38,287,228,69,3.63,draw,New Zealand,Hobart,27-Nov-97,366,1
+  India,181,9,42.4,332,256,20.11,4.24,draw,Sri Lanka,Mumbai,03-Dec-97,492,1
+  South Africa,193,6,58,360,348,32.16,3.32,draw,Australia,Adelaide,30-Jan-98,652,-1
+  India,418,4,107,347,642,104.5,3.9, won,Australia,Chennai,06-Mar-98,407,1
+  South Africa,206,7,65.4,393,394,29.42,3.13, won,Pakistan,Port Elizabeth,06-Mar-98,365,1
+  England,233,3,71,374,426,77.66,3.28,draw,West Indies,Bridgetown,12-Mar-98,225,-1
+  Zimbabwe,302,4,80.2,367,482,75.5,3.75,draw,Pakistan,Bulawayo,14-Mar-98,591,1
+  New Zealand,444,6,123,464,738,74,3.6, won,Sri Lanka,Colombo (RPS),27-May-98,791,-1
+  England,170,8,45.1,289,271,21.25,3.76,draw,South Africa,Birmingham,04-Jun-98,0,1
+  Australia,237,3,62,347,372,79,3.82,draw,England,Brisbane,20-Nov-98,408,1
+  Australia,278,5,98,442,588,55.6,2.83, won,England,Adelaide,11-Dec-98,534,1
+  New Zealand,464,8,137.5,414,827,58,3.36,draw,India,Hamilton,02-Jan-99,313,1
+  South Africa,226,7,87.4,420,526,32.28,2.57, won,West Indies,Cape Town,02-Jan-99,550,1
+  South Africa,399,5,115.2,568,692,79.8,3.45, won,West Indies,Centurion,15-Jan-99,452,1
+  Pakistan,314,8,96.5,384,581,39.25,3.24,draw,Sri Lanka,Lahore,04-Mar-99,307,1
+  India,505,3,183,373,1098,168.33,2.75,draw,New Zealand,Mohali,10-Oct-99,810,1
+  India,148,5,32,423,192,29.6,4.62,draw,New Zealand,Ahmedabad,29-Oct-99,570,1
+  Zimbabwe,197,7,109,184,654,28.14,1.8,draw,Sri Lanka,Harare,04-Dec-99,54,1
+  South Africa,224,4,92.5,301,557,56,2.41,draw,England,Port Elizabeth,09-Dec-99,462,1
+  Australia,239,8,89.5,395,539,29.87,2.66, won,India,Adelaide,10-Dec-99,229,1
+  Australia,208,5,59,375,354,41.6,3.52, won,India,Melbourne,26-Dec-99,537,1
+  Pakistan,419,9,153.4,274,922,46.55,2.72,draw,West Indies,Bridgetown,18-May-00,312,-1
+  West Indies,438,7,155,292,930,62.57,2.82,draw,England,Manchester,03-Aug-00,202,-1
+  South Africa,241,9,113.5,262,683,26.77,2.11,draw,Sri Lanka,Colombo (SSC),06-Aug-00,403,-1
+  England,77,4,32.1,156,193,19.25,2.39,draw,Pakistan,Lahore,15-Nov-00,0,-1
+  Pakistan,269,3,80.2,243,482,89.66,3.34,draw,England,Faisalabad,29-Nov-00,342,1
+  New Zealand,153,4,40,300,240,38.25,3.82,draw,Zimbabwe,Wellington,26-Dec-00,180,1
+  Australia,262,5,77,461,462,52.4,3.4, won,West Indies,Melbourne,26-Dec-00,297,1
+  South Africa,140,7,34,344,204,20,4.11,draw,Sri Lanka,Durban,26-Dec-00,444,1
+  Pakistan,336,5,103,430,618,67.2,3.26, won,New Zealand,Auckland,08-Mar-01,358,-1
+  West Indies,333,7,117,305,702,47.57,2.84,draw,South Africa,Georgetown,09-Mar-01,417,1
+  India,657,7,178,383,1068,93.85,3.69, won,Australia,Kolkata,11-Mar-01,411,1
+  New Zealand,196,1,73,101,438,196,2.68,draw,Pakistan,Christchurch,15-Mar-01,147,1
+  South Africa,197,9,95.5,264,575,21.88,2.05,draw,West Indies,Bridgetown,29-Mar-01,232,-1
+  South Africa,215,7,123,322,738,30.71,1.74, won,West Indies,St John's,06-Apr-01,598,-1
+  Zimbabwe,563,9,167,347,1002,62.55,3.37,draw,West Indies,Harare,27-Jul-01,278,1
+  Australia,176,4,39.3,314,237,44,4.45, lost,England,Leeds,16-Aug-01,440,-1
+  Australia,84,2,14,283,84,42,6,draw,New Zealand,Brisbane,08-Nov-01,342,1
+  South Africa,233,5,78,394,468,46.6,2.98,draw,India,Port Elizabeth,16-Nov-01,578,1
+  Sri Lanka,224,6,67,321,402,37.33,3.34, won,West Indies,Kandy,21-Nov-01,503,1
+  New Zealand,256,9,71,439,426,28.44,3.6,draw,Australia,Perth,30-Nov-01,660,-1
+  Australia,309,7,78.1,374,469,44.14,3.95, won,South Africa,Adelaide,14-Dec-01,402,1
+  Sri Lanka,212,2,41,394,246,106,5.17, won,Zimbabwe,Galle,12-Jan-02,261,1
+  Pakistan,214,6,57.4,341,346,35.66,3.71, won,West Indies,Sharjah,31-Jan-02,377,1
+  Pakistan,225,5,76,433,456,45,2.96, won,West Indies,Sharjah,07-Feb-02,366,1
+  England,468,6,96.4,549,580,78,4.84, won,New Zealand,Christchurch,13-Mar-02,561,-1
+  England,293,4,65,355,390,73.25,4.5,draw,New Zealand,Wellington,21-Mar-02,504,-1
+  New Zealand,269,9,63.1,311,379,29.88,4.25, won,England,Auckland,30-Mar-02,378,1
+  England,529,5,191,249,1146,105.8,2.76,draw,Sri Lanka,Lord's,16-May-02,78,1
+  England,301,6,64.4,567,388,50.16,4.65, won,India,Lord's,25-Jul-02,658,1
+  Sri Lanka,263,2,66,472,396,131.5,3.98, won,Bangladesh,Colombo (SSC),28-Jul-02,364,1
+  India,424,8,115,164,690,53,3.68,draw,England,Nottingham,08-Aug-02,0,-1
+  Australia,296,5,71,463,426,59.2,4.16, won,England,Brisbane,07-Nov-02,170,1
+  England,452,9,125.3,451,753,50.22,3.6, won,Australia,Sydney,02-Jan-03,324,-1
+  Australia,238,3,66.2,406,398,79.33,3.58, won,West Indies,Port of Spain,19-Apr-03,536,-1
+  New Zealand,161,5,78,193,468,32.2,2.06,draw,Sri Lanka,Colombo (PSS),25-Apr-03,0,-1
+  South Africa,134,4,26,320,156,33.5,5.15,draw,England,Birmingham,24-Jul-03,0,-1
+  India,209,6,44.5,369,269,34.83,4.66,draw,New Zealand,Ahmedabad,08-Oct-03,642,1
+  South Africa,371,8,127.3,301,765,46.37,2.9,draw,Pakistan,Faisalabad,24-Oct-03,588,-1
+  England,293,5,67,467,402,58.6,4.37, won,Bangladesh,Chattogram,29-Oct-03,223,-1
+  Zimbabwe,200,7,52,372,312,28.57,3.84,draw,West Indies,Harare,04-Nov-03,498,1
+  Australia,284,3,62,198,372,94.66,4.58,draw,India,Brisbane,04-Dec-03,648,1
+  Sri Lanka,279,7,71,367,426,39.85,3.92,draw,England,Kandy,10-Dec-03,840,1
+  South Africa,226,6,63,377,378,37.66,3.58, won,West Indies,Johannesburg,12-Dec-03,306,1
+  India,211,2,43.2,442,260,105.5,4.86,draw,Australia,Sydney,02-Jan-04,564,-1
+  South Africa,335,3,76,440,456,111.66,4.4,draw,West Indies,Cape Town,02-Jan-04,600,1
+  Zimbabwe,242,8,64.2,352,386,30.25,3.76, won,Bangladesh,Harare,19-Feb-04,347,1
+  Australia,512,8,152,351,912,64,3.36, won,Sri Lanka,Galle,08-Mar-04,272,-1
+  South Africa,313,4,116.1,263,697,78.25,2.69,draw,New Zealand,Hamilton,10-Mar-04,96,-1
+  Bangladesh,271,9,105.2,335,632,30.11,2.57,draw,West Indies,Gros Islet,28-May-04,138,-1
+  Australia,292,9,66.4,354,400,32.44,4.38,draw,Sri Lanka,Cairns,09-Jul-04,510,1
+  England,325,5,76.4,477,460,65,4.23, won,West Indies,Lord's,22-Jul-04,477,1
+  Sri Lanka,214,9,67,324,402,23.77,3.19,draw,South Africa,Galle,04-Aug-04,540,1
+  Sri Lanka,211,4,55,492,330,52.75,3.83, won,South Africa,Colombo (SSC),11-Aug-04,402,1
+  Australia,329,5,98.1,542,589,65.8,3.35, won,India,Nagpur,26-Oct-04,321,-1
+  Australia,139,2,56,463,336,69.5,2.48, won,New Zealand,Adelaide,26-Nov-04,495,1
+  Australia,361,5,85.2,563,512,72.2,4.23, won,Pakistan,Perth,16-Dec-04,189,1
+  England,570,7,172.3,377,1035,81.42,3.3,draw,South Africa,Durban,26-Dec-04,516,-1
+  South Africa,222,8,69.3,500,417,27.75,3.19, won,England,Cape Town,02-Jan-05,742,1
+  Bangladesh,204,9,51.1,380,307,22.66,3.98, won,Zimbabwe,Chattogram,06-Jan-05,386,1
+  England,332,9,81.1,324,487,36.88,4.09, won,South Africa,Johannesburg,13-Jan-05,357,-1
+  South Africa,296,6,73,184,438,49.33,4.05,draw,England,Centurion,21-Jan-05,248,1
+  Pakistan,496,9,144,292,864,55.11,3.44,draw,India,Mohali,08-Mar-05,102,-1
+  India,407,9,104,421,624,45.22,3.91, won,Pakistan,Kolkata,16-Mar-05,549,1
+  Pakistan,261,2,50,382,300,130.5,5.22, won,India,Bengaluru,24-Mar-05,540,-1
+  Sri Lanka,375,7,107,377,642,53.57,3.5, won,West Indies,Kandy,22-Jul-05,248,1
+  England,280,6,61.5,422,371,46.66,4.52,draw,Australia,Manchester,11-Aug-05,648,1
+  Australia,283,2,66,508,396,141.5,4.28, won,West Indies,Brisbane,03-Nov-05,294,1
+  Pakistan,268,9,93.1,284,559,29.77,2.87,draw,England,Faisalabad,20-Nov-05,288,1
+  India,375,6,105,435,630,62.5,3.57, won,Sri Lanka,Delhi,10-Dec-05,548,1
+  Australia,528,8,146.4,490,880,66,3.6,draw,South Africa,Perth,16-Dec-05,756,1
+  India,316,9,71,508,426,35.11,4.45, won,Sri Lanka,Ahmedabad,18-Dec-05,555,1
+  Australia,321,7,83,365,498,45.85,3.86, won,South Africa,Melbourne,26-Dec-05,444,1
+  South Africa,194,6,42,286,252,32.33,4.61, lost,Australia,Sydney,02-Jan-06,363,-1
+  Pakistan,490,8,116.4,475,700,61.25,4.2,draw,India,Faisalabad,21-Jan-06,48,1
+  Pakistan,599,7,140.1,606,841,85.57,4.27, won,India,Karachi,29-Jan-06,352,1
+  England,297,3,87,367,522,99,3.41,draw,India,Nagpur,01-Mar-06,470,-1
+  Australia,307,4,82.4,409,496,76.75,3.71, won,South Africa,Durban,24-Mar-06,599,-1
+  Sri Lanka,448,5,128,457,768,89.6,3.5,draw,Pakistan,Colombo (SSC),26-Mar-06,726,1
+  India,521,6,150.5,391,905,86.83,3.45,draw,West Indies,St John's,02-Jun-06,570,-1
+  West Indies,172,6,32,391,192,28.66,5.37,draw,India,Basseterre,22-Jun-06,510,1
+  England,296,8,84.5,379,509,37,3.48,draw,Pakistan,Lord's,13-Jul-06,438,1
+  Australia,202,1,45.1,647,271,202,4.47, won,England,Brisbane,23-Nov-06,601,1
+  Pakistan,399,6,123.5,443,743,66.5,3.22, won,West Indies,Karachi,27-Nov-06,456,1
+  Australia,527,5,112,556,672,105.4,4.7, won,England,Perth,14-Dec-06,734,1
+  South Africa,265,8,67.4,353,406,33.12,3.91, won,India,Durban,26-Dec-06,331,1
+  England,284,8,66.5,400,401,35.5,4.24,draw,West Indies,Lord's,17-May-07,132,1
+  India,100,6,24,249,144,16.66,4.16,draw,Bangladesh,Chattogram,18-May-07,168,-1
+  India,180,6,58,499,348,30,3.1,draw,England,The Oval,09-Aug-07,660,-1
+  South Africa,264,7,89,423,534,37.71,2.96, won,Pakistan,Karachi,01-Oct-07,509,-1
+  South Africa,305,4,110.3,456,663,76.25,2.76,draw,Pakistan,Lahore,08-Oct-07,642,-1
+  South Africa,422,3,126,530,756,140.66,3.34, won,New Zealand,Johannesburg,08-Nov-07,306,1
+  Australia,210,2,46,506,276,105,4.56, won,Sri Lanka,Hobart,16-Nov-07,627,1
+  India,184,4,42.4,344,256,46,4.31,draw,Pakistan,Kolkata,30-Nov-07,462,1
+  Sri Lanka,442,8,130,349,780,55.25,3.4, won,England,Kandy,01-Dec-07,564,1
+  India,284,6,76.3,373,459,47.33,3.71,draw,Pakistan,Bengaluru,08-Dec-07,216,1
+  Australia,351,7,88,498,528,50.14,3.98, won,India,Melbourne,26-Dec-07,444,1
+  Australia,401,7,107,332,642,57.28,3.74, won,India,Sydney,02-Jan-08,425,1
+  India,269,7,90,232,540,38.42,2.98,draw,Australia,Adelaide,24-Jan-08,0,-1
+  New Zealand,177,9,55,299,330,19.66,3.21, won,England,Hamilton,05-Mar-08,330,1
+  England,467,7,131.5,552,791,66.71,3.54, won,New Zealand,Napier,22-Mar-08,713,-1
+  Sri Lanka,240,7,57,436,342,34.28,4.21, won,West Indies,Providence,22-Mar-08,638,-1
+  South Africa,331,5,109,244,654,66.2,3.03,draw,India,Chennai,26-Mar-08,0,-1
+  Australia,244,6,61.5,371,371,40.66,3.94,draw,West Indies,North Sound,30-May-08,558,-1
+  Australia,439,5,145,474,870,87.8,3.02, won,West Indies,Bridgetown,12-Jun-08,634,-1
+  South Africa,393,3,167,47,1002,131,2.35,draw,England,Lord's,10-Jul-08,0,-1
+  Australia,228,6,73,298,438,38,3.12,draw,India,Bengaluru,09-Oct-08,438,-1
+  India,314,3,65,515,390,104.66,4.83, won,Australia,Mohali,17-Oct-08,388,1
+  New Zealand,79,1,31,172,186,79,2.54,draw,Bangladesh,Dhaka,25-Oct-08,0,-1
+  India,208,5,77.3,244,465,41.6,2.68,draw,Australia,Delhi,29-Oct-08,38,1
+  England,311,9,105.5,386,635,34.55,2.93, lost,India,Chennai,11-Dec-08,591,-1
+  India,251,7,73,402,438,35.85,3.43,draw,England,Mohali,19-Dec-08,306,1
+  Sri Lanka,405,6,108,520,648,67.5,3.75, won,Bangladesh,Dhaka,26-Dec-08,758,-1
+  Australia,257,4,67.3,375,405,64.25,3.8, won,South Africa,Sydney,03-Jan-09,686,1
+  Sri Lanka,447,6,127,623,762,74.5,3.51, won,Bangladesh,Chattogram,03-Jan-09,296,-1
+  England,221,8,50,502,300,27.62,4.42,draw,West Indies,St John's,15-Feb-09,768,-1
+  England,279,2,81,130,486,139.5,3.44,draw,West Indies,Bridgetown,26-Feb-09,716,-1
+  Australia,331,5,94.4,545,568,66.2,3.49, won,South Africa,Durban,06-Mar-09,794,-1
+  England,237,6,38.4,239,232,39.5,6.12,draw,West Indies,Port of Spain,06-Mar-09,395,-1
+  India,434,7,116,616,696,62,3.74,draw,New Zealand,Wellington,03-Apr-09,567,-1
+  England,311,6,71.2,521,428,51.83,4.35, won,Australia,Lord's,16-Jul-09,642,1
+  Pakistan,425,9,123,491,738,47.22,3.45,draw,Sri Lanka,Colombo (SSC),20-Jul-09,804,-1
+  Sri Lanka,259,4,49,412,294,64.75,5.28, won,New Zealand,Galle,18-Aug-09,431,1
+  England,373,9,95,545,570,41.44,3.92, won,Australia,The Oval,20-Aug-09,614,1
+  Sri Lanka,311,5,85.2,493,512,62.2,3.64, won,New Zealand,Colombo (SSC),26-Aug-09,743,1
+  South Africa,301,7,85.5,363,515,43,3.5,draw,England,Centurion,16-Dec-09,576,1
+  Australia,225,8,73.1,421,439,28.12,3.07, won,Pakistan,Melbourne,26-Dec-09,432,1
+  South Africa,447,7,111.2,465,668,63.85,4.01,draw,England,Cape Town,03-Jan-10,846,1
+  Australia,219,5,48.4,437,292,43.8,4.5, won,Pakistan,Hobart,14-Jan-10,518,1
+  India,413,8,87,414,522,51.62,4.74, won,Bangladesh,Chattogram,17-Jan-10,452,-1
+  New Zealand,258,5,71,403,426,51.6,3.63, won,Bangladesh,Hamilton,15-Feb-10,456,1
+  England,209,7,49.3,512,297,29.85,4.22, won,Bangladesh,Chattogram,12-Mar-10,744,-1
+  Australia,511,8,153,478,918,63.87,3.33, won,New Zealand,Hamilton,27-Mar-10,547,-1
+  South Africa,206,4,61.5,456,371,51.5,3.33, won,West Indies,Port of Spain,10-Jun-10,483,-1
+  South Africa,235,3,94,232,564,78.33,2.5,draw,West Indies,Basseterre,18-Jun-10,52,-1
+  Sri Lanka,129,3,45,64,270,43,2.86,draw,India,Colombo (SSC),26-Jul-10,0,1
+  England,262,9,75.3,434,453,29.11,3.47, won,Pakistan,Nottingham,29-Jul-10,174,1
+  New Zealand,448,8,135,326,810,56,3.31,draw,India,Hyderabad (Deccan),12-Nov-10,102,-1
+  South Africa,318,2,95,450,570,159,3.34,draw,Pakistan,Dubai (DSC),12-Nov-10,702,-1
+  South Africa,203,5,55,353,330,40.6,3.69,draw,Pakistan,Abu Dhabi,20-Nov-10,402,-1
+  Sri Lanka,57,1,15,201,90,57,3.8,draw,West Indies,Colombo (RPS),23-Nov-10,66,1
+  England,517,1,152,296,912,517,3.4,draw,Australia,Brisbane,25-Nov-10,156,-1
+  Pakistan,377,6,112.2,426,674,62.83,3.35, won,West Indies,Basseterre,20-May-11,483,-1
+  England,335,7,78.1,342,469,47.85,4.28,draw,Sri Lanka,Lord's,03-Jun-11,258,1
+  India,269,6,102,280,612,44.83,2.63,draw,West Indies,Bridgetown,28-Jun-11,429,-1
+  England,269,6,71,457,426,44.83,3.78, won,India,Lord's,21-Jul-11,579,1
+  Zimbabwe,291,5,92,374,552,58.2,3.16, won,Bangladesh,Harare,04-Aug-11,345,1
+  Bangladesh,119,3,42,225,252,39.66,2.83,draw,West Indies,Chattogram,21-Oct-11,132,1
+  West Indies,383,5,111.3,507,669,76.6,3.43, won,Bangladesh,Dhaka,29-Oct-11,482,-1
+  New Zealand,252,8,71,365,426,31.5,3.54, won,Zimbabwe,Bulawayo,01-Nov-11,649,-1
+  Sri Lanka,181,6,58,254,348,30.16,3.12,draw,Pakistan,Sharjah,03-Nov-11,342,-1
+  Australia,167,5,46,499,276,33.4,3.63, won,India,Adelaide,24-Jan-12,418,1
+  South Africa,435,5,140,400,840,87,3.1,draw,New Zealand,Dunedin,07-Mar-12,246,-1
+  South Africa,189,3,29.4,388,178,63,6.37,draw,New Zealand,Wellington,23-Mar-12,484,-1
+  Australia,160,8,61.5,214,371,20,2.58,draw,West Indies,Port of Spain,15-Apr-12,119,-1
+  Sri Lanka,137,5,41,509,246,27.4,3.34, won,Pakistan,Galle,22-Jun-12,684,1
+  Pakistan,100,2,18,260,108,50,5.55,draw,Sri Lanka,Colombo (SSC),30-Jun-12,132,-1
+  Pakistan,380,8,128.4,269,772,47.5,2.95,draw,Sri Lanka,Pallekele,08-Jul-12,372,-1
+  South Africa,258,9,67.4,252,406,28.66,3.81,draw,England,Leeds,02-Aug-12,198,-1
+  Australia,267,8,70,429,420,33.37,3.81,draw,South Africa,Adelaide,22-Nov-12,888,1
+  New Zealand,194,9,54,362,324,21.55,3.59, won,Sri Lanka,Colombo (PSS),25-Nov-12,515,-1
+  England,352,4,154,356,924,88,2.28,draw,India,Nagpur,13-Dec-12,0,-1
+  South Africa,275,3,62,479,372,91.66,4.43, won,Pakistan,Johannesburg,01-Feb-13,604,1
+  Sri Lanka,335,4,83,267,498,83.75,4.03,draw,Bangladesh,Galle,08-Mar-13,132,1
+  New Zealand,241,6,57.2,480,344,40.16,4.2,draw,England,Auckland,22-Mar-13,858,1
+  Zimbabwe,227,7,64,482,384,32.42,3.54, won,Bangladesh,Harare,17-Apr-13,296,1
+  Bangladesh,291,9,88,400,528,32.33,3.3, won,Zimbabwe,Harare,25-Apr-13,573,-1
+  England,287,5,76,467,456,57.4,3.77, won,New Zealand,Leeds,24-May-13,459,1
+  England,349,7,114.1,582,685,49.85,3.05, won,Australia,Lord's,18-Jul-13,543,1
+  Australia,172,7,36,331,216,24.57,4.77,draw,England,Manchester,01-Aug-13,123,-1
+  Australia,111,6,23,226,138,18.5,4.82,draw,England,The Oval,21-Aug-13,240,-1
+  Pakistan,419,9,149.3,341,897,46.55,2.8, won,Zimbabwe,Harare,03-Sep-13,280,-1
+  New Zealand,287,7,90,255,540,41,3.18,draw,Bangladesh,Chattogram,09-Oct-13,290,-1
+  Australia,401,7,94,560,564,57.28,4.26, won,England,Brisbane,21-Nov-13,487,1
+  Australia,132,3,39,530,234,44,3.38, won,England,Adelaide,05-Dec-13,610,1
+  Australia,369,6,87,503,522,61.5,4.24, won,England,Perth,13-Dec-13,620,1
+  Sri Lanka,480,5,168.3,301,1011,96,2.84,draw,Pakistan,Abu Dhabi,31-Dec-13,312,-1
+  Sri Lanka,305,4,75.5,466,455,76.25,4.02,draw,Bangladesh,Chattogram,04-Feb-14,508,-1
+  Australia,290,4,72.2,481,434,72.5,4, won,South Africa,Centurion,12-Feb-14,358,-1
+  New Zealand,680,8,210,434,1260,85,3.23,draw,India,Wellington,14-Feb-14,312,1
+  South Africa,270,5,64,447,384,54,4.21, won,Australia,Port Elizabeth,20-Feb-14,442,1
+  Australia,303,5,58,510,348,60.6,5.22, won,South Africa,Cape Town,01-Mar-14,807,-1
+  New Zealand,156,8,60.5,402,365,19.5,2.56, won,West Indies,Kingston,08-Jun-14,286,-1
+  England,267,8,69,389,414,33.37,3.86,draw,Sri Lanka,Lord's,12-Jun-14,540,1
+  New Zealand,331,7,89.1,307,535,47.28,3.71, won,West Indies,Bridgetown,26-Jun-14,494,-1
+  India,391,9,123,352,738,43.44,3.17,draw,England,Nottingham,09-Jul-14,0,-1
+  South Africa,206,6,50.2,369,302,34.33,4.09, won,Sri Lanka,Galle,16-Jul-14,530,-1
+  Sri Lanka,229,8,53.4,368,322,28.62,4.26,draw,South Africa,Colombo (SSC),24-Jul-14,666,1
+  England,205,4,40.4,444,244,51.25,5.04, won,India,Southampton,27-Jul-14,400,1
+  West Indies,269,4,77,488,462,67.25,3.49, won,Bangladesh,Gros Islet,13-Sep-14,466,1
+  Pakistan,286,2,78,437,468,143,3.66, won,Australia,Dubai (DSC),22-Oct-14,547,1
+  Pakistan,293,3,60.4,602,364,97.66,4.82, won,Australia,Abu Dhabi,30-Oct-14,531,1
+  Bangladesh,248,9,83.5,313,503,27.55,2.95, won,Zimbabwe,Khulna,03-Nov-14,307,1
+  Pakistan,175,2,39.2,479,236,87.5,4.44, won,New Zealand,Abu Dhabi,09-Nov-14,423,1
+  Bangladesh,319,5,78,448,468,63.8,4.08, won,Zimbabwe,Chattogram,12-Nov-14,510,1
+  New Zealand,250,9,64.5,260,389,27.77,3.85,draw,Pakistan,Dubai (DSC),17-Nov-14,402,-1
+  Australia,290,5,69,363,414,58,4.2, won,India,Adelaide,09-Dec-14,523,1
+  Australia,318,9,98,383,588,35.33,3.24,draw,India,Melbourne,26-Dec-14,396,1
+  New Zealand,524,5,172,389,1032,104.8,3.04, won,Sri Lanka,Wellington,03-Jan-15,436,1
+  Australia,251,6,40,348,240,41.83,6.27,draw,India,Sydney,06-Jan-15,539,1
+  England,333,7,86,437,516,47.57,3.87,draw,West Indies,North Sound,13-Apr-15,778,-1
+  Pakistan,195,6,41.1,549,247,32.5,4.73, won,Bangladesh,Dhaka,06-May-15,341,-1
+  New Zealand,454,8,91,454,546,56.75,4.98, won,England,Leeds,29-May-15,551,-1
+  Australia,212,2,65,391,390,106,3.26, won,West Indies,Kingston,11-Jun-15,252,-1
+  Australia,254,2,49,508,294,127,5.18, won,England,Lord's,16-Jul-15,222,-1
+  India,325,8,91,412,546,40.62,3.57, won,Sri Lanka,Colombo (PSS),20-Aug-15,262,-1
+  Pakistan,354,6,95,490,570,59,3.72, won,England,Dubai (DSC),22-Oct-15,395,1
+  Australia,264,4,42,503,252,66,6.28, won,New Zealand,Brisbane,05-Nov-15,531,1
+  Australia,385,7,103,320,618,55,3.73,draw,New Zealand,Perth,13-Nov-15,168,1
+  India,267,5,100.1,480,601,53.4,2.66, won,South Africa,Delhi,03-Dec-15,859,1
+  New Zealand,267,3,65.4,404,394,89,4.06, won,Sri Lanka,Dunedin,10-Dec-15,572,1
+  Australia,179,3,32,459,192,59.66,5.59, won,West Indies,Melbourne,26-Dec-15,531,1
+  South Africa,248,5,83.2,381,500,49.6,2.97, won,England,Centurion,22-Jan-16,208,1
+  England,233,7,71,361,426,33.28,3.28,draw,Sri Lanka,Lord's,09-Jun-16,146,1
+  England,173,1,30,564,180,173,5.76, won,Pakistan,Manchester,22-Jul-16,423,1
+  England,445,6,129,342,774,74.16,3.44, won,Pakistan,Birmingham,03-Aug-16,425,1
+  New Zealand,166,2,36,386,216,83,4.61, won,Zimbabwe,Bulawayo,06-Aug-16,412,-1
+  India,217,7,48,345,288,31,4.52, won,West Indies,Gros Islet,09-Aug-16,285,-1
+  Sri Lanka,347,8,99.3,323,597,43.37,3.48, won,Australia,Colombo (SSC),13-Aug-16,265,1
+  South Africa,132,7,47,399,282,18.85,2.8, won,New Zealand,Centurion,27-Aug-16,350,1
+  India,377,5,107.2,433,644,75.4,3.51, won,New Zealand,Kanpur,22-Sep-16,525,1
+  India,216,3,49,474,294,72,4.4, won,New Zealand,Indore,08-Oct-16,269,1
+  Pakistan,227,2,67,455,402,113.5,3.38, won,West Indies,Abu Dhabi,21-Oct-16,648,1
+  Sri Lanka,247,6,61.5,411,371,41.16,3.99, won,Zimbabwe,Harare,29-Oct-16,543,-1
+  South Africa,540,8,160.1,538,961,67.5,3.37, won,Australia,Perth,03-Nov-16,715,-1
+  Sri Lanka,258,9,81.4,490,490,28.66,3.15, won,Zimbabwe,Harare,06-Nov-16,348,-1
+  England,260,3,75.3,309,453,86.66,3.44,draw,India,Rajkot,09-Nov-16,315,-1
+  New Zealand,313,5,85.3,368,513,62.6,3.66, won,Pakistan,Hamilton,25-Nov-16,553,1
+  Australia,202,5,39,489,234,40.4,5.17, won,Pakistan,Brisbane,15-Dec-16,870,1
+  South Africa,406,6,90.5,487,545,67.66,4.46, won,Sri Lanka,Port Elizabeth,26-Dec-16,579,1
+  South Africa,224,7,51.5,506,311,32,4.32, won,Sri Lanka,Cape Town,02-Jan-17,372,1
+  Australia,241,2,32,464,192,120.5,7.53, won,Pakistan,Sydney,03-Jan-17,482,1
+  India,159,4,29,458,174,39.75,5.48, won,Bangladesh,Hyderabad (Deccan),09-Feb-17,603,1
+  Sri Lanka,274,6,69,456,414,45.66,3.97, won,Bangladesh,Galle,07-Mar-17,362,1
+  Pakistan,174,8,57,303,342,21.75,3.05, won,West Indies,Roseau,10-May-17,576,-1
+  South Africa,343,9,104,473,624,38.11,3.29, won,England,Nottingham,14-Jul-17,266,-1
+  India,240,3,53,549,318,80,4.52, won,Sri Lanka,Galle,26-Jul-17,461,-1
+  England,313,8,79.5,491,479,39.12,3.92, won,South Africa,The Oval,27-Jul-17,463,1
+  England,490,8,141,321,846,61.25,3.47, lost,West Indies,Leeds,25-Aug-17,548,1
+  South Africa,247,6,56,423,336,41.16,4.41, won,Bangladesh,Potchefstroom,28-Sep-17,286,1
+  India,352,8,88.4,230,532,44,3.96,draw,Sri Lanka,Kolkata,16-Nov-17,159,1
+  India,246,5,52.2,409,314,49.2,4.7,draw,Sri Lanka,Delhi,02-Dec-17,618,1
+  New Zealand,291,8,77.4,443,466,36.37,3.74, won,West Indies,Hamilton,09-Dec-17,383,1
+  Australia,263,4,124.2,99,746,65.75,2.11,draw,England,Melbourne,26-Dec-17,0,1
+  Bangladesh,307,5,100,107,600,61.4,3.07,draw,Sri Lanka,Chattogram,31-Jan-18,0,1
+  England,352,9,106.4,381,640,39.11,3.3,draw,New Zealand,Christchurch,30-Mar-18,748,-1
+  South Africa,344,6,105,611,630,57.33,3.27, won,Australia,Johannesburg,30-Mar-18,280,1
+  West Indies,223,7,72,452,432,31.85,3.09, won,Sri Lanka,Port of Spain,06-Jun-18,500,1
+  Sri Lanka,275,5,81,489,486,55,3.39, won,South Africa,Colombo (SSC),20-Jul-18,521,1
+  India,352,7,110,520,660,50.28,3.2, won,England,Nottingham,18-Aug-18,629,-1
+  England,423,8,112.3,463,675,52.87,3.76, won,India,The Oval,07-Sep-18,567,1
+  Pakistan,181,6,57.5,461,347,30.16,3.12,draw,Australia,Dubai (DSC),07-Oct-18,839,1
+  Pakistan,400,9,120,537,720,44.44,3.33, won,Australia,Abu Dhabi,16-Oct-18,298,1
+  England,322,6,93,461,558,53.66,3.46, won,Sri Lanka,Galle,06-Nov-18,511,-1
+  Bangladesh,224,6,54,442,324,37.33,4.14, won,Zimbabwe,Dhaka,11-Nov-18,499,1
+  New Zealand,353,7,113,279,678,50.42,3.12, won,Pakistan,Abu Dhabi,03-Dec-18,337,-1
+  New Zealand,585,4,153,659,918,146.25,3.82, won,Sri Lanka,Christchurch,26-Dec-18,638,1
+  India,106,8,37.3,398,225,13.25,2.82, won,Australia,Melbourne,26-Dec-18,537,-1
+  West Indies,415,6,103.1,627,619,69.16,4.02, won,England,Bridgetown,23-Jan-19,484,1
+  Australia,196,3,47,515,282,65.33,4.17, won,Sri Lanka,Canberra,01-Feb-19,306,1
+  England,361,5,105.2,484,632,72.2,3.42, won,West Indies,Gros Islet,09-Feb-19,419,-1
+  Australia,487,7,112,397,672,69.57,4.34, won,England,Birmingham,01-Aug-19,315,-1
+  England,258,5,71,266,426,51.6,3.63,draw,Australia,Lord's,14-Aug-19,517,1
+  India,343,7,112.3,418,675,49,3.04, won,West Indies,North Sound,22-Aug-19,161,-1
+  India,168,4,54.4,467,328,42,3.07, won,West Indies,Kingston,30-Aug-19,359,-1
+  Australia,186,6,42.5,382,257,31,4.34, won,England,Manchester,04-Sep-19,549,-1
+  India,323,4,67,394,402,80.75,4.82, won,South Africa,Visakhapatnam,02-Oct-19,383,1
+  Australia,217,9,69.1,467,415,24.11,3.13, won,New Zealand,Perth,12-Dec-19,393,1
+  Pakistan,555,3,131,475,786,185,4.23, won,Sri Lanka,Karachi,19-Dec-19,377,1
+  Australia,168,5,54.2,487,326,33.6,3.09, won,New Zealand,Melbourne,26-Dec-19,426,1
+  Australia,217,2,52,415,312,108.5,4.17, won,New Zealand,Sydney,03-Jan-20,287,1
+  England,391,8,111,437,666,48.87,3.52, won,South Africa,Cape Town,03-Jan-20,826,-1
+  Zimbabwe,247,7,75,360,450,35.28,3.29,draw,Sri Lanka,Harare,27-Jan-20,522,1
+  England,129,3,19,311,114,43,6.78, won,West Indies,Manchester,16-Jul-20,421,1
+  England,226,2,58,398,348,113,3.89, won,West Indies,Manchester,24-Jul-20,223,1
+  New Zealand,180,5,45.3,372,273,36,3.95, won,Pakistan,Mount Maunganui,26-Dec-20,95,1
+  Australia,312,6,87,406,522,52,3.58,draw,India,Sydney,07-Jan-21,786,1
+  Bangladesh,223,8,67.5,394,407,27.87,3.28, lost,West Indies,Chattogram,03-Feb-21,765,1
+  West Indies,280,4,72.4,376,436,70,3.85,draw,Sri Lanka,North Sound,29-Mar-21,474,1
+  Sri Lanka,194,9,42.2,436,254,21.55,4.58, won,Bangladesh,Pallekele,29-Apr-21,426,1
+  New Zealand,169,6,52.3,272,315,28.16,3.21,draw,England,Lord's,02-Jun-21,420,-1
+  Bangladesh,284,1,67.4,476,406,284,4.19, won,Zimbabwe,Harare,07-Jul-21,568,-1
+  India,298,8,109.3,271,657,37.25,2.72, won,England,Lord's,12-Aug-21,341,-1
+  Pakistan,176,6,27.2,328,164,29.33,6.43, won,West Indies,Kingston,20-Aug-21,500,-1
