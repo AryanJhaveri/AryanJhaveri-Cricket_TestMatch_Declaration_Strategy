@@ -9,15 +9,15 @@ This repository contains code, data, and visualizations for a cricket data analy
 
 - `ResearchPaper.ipynb`: Jupyter Notebook containing the code and visualizations used for the analysis.
 
-- `Dasgboards/`: This directory stores visualizations generated during the analysis, including charts and graphs.
+- `Dashboards/`: This directory stores visualizations generated during the analysis, including charts and graphs.
 
 ## Usage
 
 To explore this project:
 
-1. Access the code and interactive visualizations by opening the Jupyter Notebook [`analysis.ipynb`](analysis.ipynb).
+1. Access the code and interactive visualizations by opening the Jupyter Notebook [`analysis.ipynb`](ResearchPaper.ipynb).
 
-2. The data used for this analysis can be found in the [`Researchdata`](Researchdata.csv).
+2. The data used for this analysis can be found in the [`Researchdata`](ResearchData.csv).
 
 ## Author
 Aryan Jhaveri
